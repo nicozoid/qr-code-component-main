@@ -40,7 +40,7 @@ body {
     gap: var(--spacing-500);
 }
 
-.card {
+main {
     width: 320px;
     display: flex;
     padding: var(--spacing-200) var(--spacing-200) var(--spacing-500) var(--spacing-200);
